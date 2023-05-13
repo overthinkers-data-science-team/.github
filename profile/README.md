@@ -1,10 +1,5 @@
 ![Logo](https://gcdnb.pbrd.co/images/g9f8qLj771W5.png?o=1)
 
-<h1 style="text-align:center; color:#4F2683;"><strong>Overthinkers</strong></h1>
-<h3 style='text-align:center;'>Unlock the power of data science with Overthinkers<h3>
-
-&nbsp;
-
 <h2><strong>Who are we?</strong></h2>
 
 <br />
